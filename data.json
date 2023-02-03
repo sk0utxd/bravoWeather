@@ -1,10 +1,3 @@
 [	
-	{
-		"name": "Estonia ",
-		"temp": -40
-	},
-	{
-		"name": "Tokyo ",
-		"temp": 15
-	}
+	"Estonia", "Tokyo"
 ]
