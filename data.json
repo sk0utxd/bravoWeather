@@ -1,10 +1,10 @@
 [	
 	{
 		"name": "Estonia ",
-		"temp": -40
+		"temp": [4,7,9]
 	},
 	{
 		"name": "Tokyo ",
-		"temp": 15
+		"temp": [3,4,5]
 	}
 ]
