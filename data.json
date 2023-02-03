@@ -1,10 +1,36 @@
 [	
 	{
-		"name": "Estonia ",
-		"temp": [4,7,9]
+		"name": "Estonia",
+		"timseries": [
+			{
+				"time": 300,
+				"temp": 400
+			},
+			{
+				"time": 200,
+				"temp": 300
+			},
+			{
+				"time": 200,
+				"temp": 300
+			},
+		]
 	},
 	{
-		"name": "Tokyo ",
-		"temp": [3,4,5]
+		"name": "Tokyo",
+		"timseries": [
+			{
+				"time": 100,
+				"temp": 300
+			},
+			{
+				"time": 200,
+				"temp": 500
+			},
+			{
+				"time": 100,
+				"temp": 300
+			},
+		]
 	}
 ]
