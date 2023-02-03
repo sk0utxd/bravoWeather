@@ -1,34 +1,5 @@
-[
-	{
-		"name": "Estonia",
-		"timseries": [{
-				"time": 300,
-				"temp": 400
-			},
-			{
-				"time": 200,
-				"temp": 300
-			},
-			{
-				"time": 200,
-				"temp": 300
-			}
-		]
-	},
-	{
-		"name": "Tokyo",
-		"timseries": [{
-				"time": 100,
-				"temp": 300
-			},
-			{
-				"time": 200,
-				"temp": 500
-			},
-			{
-				"time": 100,
-				"temp": 300
-			}
-		]
+{
+	"ee": {
+		"temp": 40
 	}
-]
+}
